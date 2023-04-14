@@ -1,7 +1,3 @@
 {
-  "isAppDestroyed": false,
-  "versionCode": 2,
-  "versionName": "1.1",
-  "appName": "My App",
-  "developer": "Ahmed Dev Mods"
+  "isAppDestroyed": true
 }
